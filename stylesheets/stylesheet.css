@@ -1,8 +1,3 @@
-/*******************************************************************************
-Slate Theme for GitHub Pages
-by Jason Costello, @jsncostello
-*******************************************************************************/
-
 @import url(pygment_trac.css);
 
 /*******************************************************************************
@@ -356,6 +351,8 @@ Full-Width Styles
   -moz-background-clip: padding;
   -webkit-background-clip: padding;
   background-clip: padding-box;
+  max-width: 960px;
+  margin: 0 auto;
 }
 
 #main_content {
@@ -363,6 +360,8 @@ Full-Width Styles
 }
 
 #footer_wrap {
+  text-aglin: center;
+  margin: 0 auto;
 }
 
 
