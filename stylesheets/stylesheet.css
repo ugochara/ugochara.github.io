@@ -48,7 +48,7 @@ body {
   color:#373737;
   background: url("http://cdn-ak.f.st-hatena.com/images/fotolife/S/Sukai/20121216/20121216160043.jpg") repeat center top;
   font-size: 16px;
-  font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
+  font-family: 'Helvetica Nueu', 'Helvetica', 'Hiragino Kaku Gothic Pro', 'Meiryo', 'MS PGothic', sans-serif;
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
 }
@@ -283,7 +283,7 @@ Full-Width Styles
 }
 
 #header_wrap .inner {
-  padding: 50px 10px 30px 10px;
+  padding: 48px 8px 16px 8px;
 }
 
 #project_title {
