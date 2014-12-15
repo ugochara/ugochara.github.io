@@ -396,7 +396,7 @@ footer {
 .footer-box ul li {
   padding: 3px 0;
 }
-#clubfooter-inner:after {
+#footer-inner:after {
   display: block;
   visibility: hidden;
   font-size: 0;
