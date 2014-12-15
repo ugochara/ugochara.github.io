@@ -363,6 +363,48 @@ Full-Width Styles
   margin: 0 auto;
 }
 
+footer {
+  background: #f2f2f2;
+  border-top: 1px solid #D7D7D7;
+  line-height: 15px;
+  padding: 20px 0;
+  clear: both;
+  font-size: 14px;
+  margin-top: 25px;
+}
+#clubfooter-inner {
+  width: 960px;
+  margin: 0 auto;
+}
+#clubfooter-inner .footer-box {
+  width: 225px;
+  margin-right: 15px;
+  float: left;
+  text-align: left;
+  overflow: hidden;
+}
+#clubfooter-inner .title {
+  color: #555;
+  margin: 0;
+  font-size: 14px;
+}
+.footer-box ul {
+  list-style: none;
+  margin: 10px 0 0 0;
+  padding: 0;
+}
+.footer-box ul li {
+  padding: 3px 0;
+}
+#clubfooter-inner:after {
+  display: block;
+  visibility: hidden;
+  font-size: 0;
+  height: 0;
+  clear: both;
+  content: ".";
+}
+
 /*******************************************************************************
 Small Device Styles
 *******************************************************************************/
