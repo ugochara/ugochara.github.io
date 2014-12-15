@@ -372,18 +372,18 @@ footer {
   font-size: 14px;
   margin-top: 25px;
 }
-#clubfooter-inner {
+#footer-inner {
   width: 960px;
   margin: 0 auto;
 }
-#clubfooter-inner .footer-box {
+#footer-inner .footer-box {
   width: 225px;
   margin-right: 15px;
   float: left;
   text-align: left;
   overflow: hidden;
 }
-#clubfooter-inner .title {
+#footer-inner .title {
   color: #555;
   margin: 0;
   font-size: 14px;
