@@ -264,6 +264,45 @@ Full-Width Styles
   margin: 0 auto;
 }
 
+.main-image {
+  background: url("http://f.st-hatena.com/images/fotolife/o/onelineca/20150318/20150318204104_original.png?1426725840");
+  background-size: cover;
+  background-position: 50% 50%;
+  position: relative;
+  width: auto;
+  height: 460px;
+}
+.main-image-inner {
+  width: 860px;
+  height: 152px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-left: -430px;
+  margin-top: -76px;
+}
+.main-image-text {
+  overflow: hidden;
+  text-align: center;
+  line-height: 1;
+  color: #fff;
+}
+.main-image-text span {
+  letter-spacing: 4px;
+  display: inline-block;
+  padding: 0 30px;
+  font-size: 40px;
+  position: relative;
+}
+.main-image-text-sub {
+  letter-spacing: 2px;
+  line-height: 22px;
+  font-size: 16px;
+  margin: 0 0 25px;
+  color: #fff;
+  text-align: center;
+}
+
 #forkme_banner {
   display: block;
   position: absolute;
@@ -277,9 +316,6 @@ Full-Width Styles
   box-shadow: 0 0 10px rgba(0,0,0,.5);
   border-bottom-left-radius: 2px;
   border-bottom-right-radius: 2px;
-}
-
-#header_wrap {
 }
 
 #header_wrap .inner {
