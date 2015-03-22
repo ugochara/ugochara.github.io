@@ -398,15 +398,15 @@ Small Device Styles
   }
 
   h1 {
-    font-size: 28px;
-  }
-
-  h2 {
     font-size: 24px;
   }
 
+  h2 {
+    font-size: 20px;
+  }
+
   h3 {
-    font-size: 21px;
+    font-size: 16px;
   }
 
   h4 {
