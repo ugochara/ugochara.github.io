@@ -364,19 +364,8 @@ Full-Width Styles
 
 #main_content_wrap {
   background: #fff;
-  border-radius: 8px;
-  border: 5px solid rgba(255,255,255,0.5);
-  -moz-background-clip: border;
-  -webkit-background-clip: border;
-  background-clip: border-box;
-  -moz-background-clip: padding;
-  -webkit-background-clip: padding;
-  background-clip: padding-box;
-  max-width: 960px;
+  max-width: 100%;
   margin: 0 auto 16px auto;
-}
-
-#main_content {
 }
 
 #footer_wrap {
@@ -386,6 +375,7 @@ Full-Width Styles
 
 footer {
   background: #212121;
+  color: #fafafa;
   border-top: 1px solid #D7D7D7;
   line-height: 15px;
   padding: 20px 0;
