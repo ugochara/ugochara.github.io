@@ -280,13 +280,13 @@ Full-Width Styles
   position: absolute;
 }
 .main-image-inner {
-  width: 860px;
-  height: 152px;
+  width: 720px;
+  height: 150px;
   position: absolute;
   top: 50%;
   left: 50%;
-  margin-left: -430px;
-  margin-top: -76px;
+  margin-left: -360px;
+  margin-top: -75px;
 }
 .main-image-text {
   overflow: hidden;
