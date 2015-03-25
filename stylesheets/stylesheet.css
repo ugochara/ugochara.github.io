@@ -265,12 +265,12 @@ Full-Width Styles
 }
 
 .main-image {
-  background: url("http://f.st-hatena.com/images/fotolife/o/onelineca/20150318/20150318204104_original.png?1426725840");
+  background: url("http://f.st-hatena.com/images/fotolife/o/onelineca/20150325/20150325153248_original.jpg?1427312104");
   background-size: cover;
   background-position: 50% 50%;
   position: relative;
-  width: auto;
-  height: 460px;
+  width: 100%;
+  min-height: 720px;
 }
 .main-image-inner {
   width: 860px;
