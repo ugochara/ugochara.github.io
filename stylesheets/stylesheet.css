@@ -272,6 +272,13 @@ Full-Width Styles
   width: 100%;
   min-height: 720px;
 }
+.main-image .logo {
+  top: 32px;
+  left: 40px;
+  font-size: 24px;
+  font-weight: bold;
+  position: absolute;
+}
 .main-image-inner {
   width: 860px;
   height: 152px;
