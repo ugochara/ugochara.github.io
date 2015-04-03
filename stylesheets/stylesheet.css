@@ -333,6 +333,20 @@ Full-Width Styles
   max-width: 100%;
   margin: 0 auto;
 }
+section .inner:after {
+  display: block;
+  visibility: hidden;
+  font-size: 0;
+  height: 0;
+  clear: both;
+  content: ".";
+}
+section .inner .text{
+  float: left;
+}
+section .inner .image{
+  float: right;
+}
 
 #footer_wrap {
   text-aglin: center;
