@@ -357,7 +357,6 @@ footer {
   background: #212121;
   color: #fafafa;
   border-top: 1px solid #D7D7D7;
-  line-height: 15px;
   padding: 24px 0;
   clear: both;
   font-size: 16px;
@@ -365,11 +364,11 @@ footer {
 }
 #footer-inner {
   max-width: 960px;
-  margin: 0 auto;
+  margin: 16px auto;
 }
 .footer-box ul {
   list-style: none;
-  margin: 8px 0 0 0;
+  margin: 0;
   padding: 0;
 }
 .footer-box ul li {
