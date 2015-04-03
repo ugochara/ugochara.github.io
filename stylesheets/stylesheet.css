@@ -362,7 +362,11 @@ footer {
   padding: 0;
 }
 .footer-box ul li {
-  padding: 4px 0;
+  float: left;
+}
+.footer-box ul li a {
+  padding: 14px;
+  list-style: none;
 }
 #footer-inner:after {
   display: block;
