@@ -373,7 +373,7 @@ footer {
   padding: 0;
 }
 .footer-box ul li {
-  float: left;
+  display: inline-block;
 }
 .footer-box ul li a {
   padding: 14px;
