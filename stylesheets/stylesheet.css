@@ -356,8 +356,6 @@ section .inner .image{
 footer {
   background: #212121;
   color: #fafafa;
-  border-top: 1px solid #D7D7D7;
-  padding: 24px 0;
   clear: both;
   font-size: 16px;
   text-align: center;
@@ -365,7 +363,7 @@ footer {
 #footer-inner {
   max-width: 960px;
   margin: 0 auto;
-  padding: 16px 0;
+  padding: 24px 0;
   border-bottom: 1px dashed #ddd;
 }
 .footer-box ul {
@@ -387,6 +385,10 @@ footer {
   height: 0;
   clear: both;
   content: ".";
+}
+.address {
+  margin: 0 auto;
+  padding: 24px 0;
 }
 
 /*******************************************************************************
