@@ -386,7 +386,7 @@ footer {
   clear: both;
   content: ".";
 }
-.address {
+address {
   margin: 0 auto;
   padding: 24px 0;
 }
